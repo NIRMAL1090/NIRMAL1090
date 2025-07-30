@@ -1,4 +1,5 @@
-Hello i am, **Nirmal Patel**, a Full‑Stack Developer from Ahmedabad, India.
+ # 👋 Hi, I’m Nirmal Patel, 
+ I'm a 22‑year‑old MSc IT student & Full‑Stack Developer from Ahmedabad, India.
 
 ---
 
