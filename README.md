@@ -1,13 +1,12 @@
  # 👋 Hi, I’m Nirmal Patel, 
- I'm a 22‑year‑old MSc IT student & Full‑Stack Developer from Ahmedabad, India.
+ I'm a 22‑year‑old MSc IT student & Full‑Stack Developer from Ahmedabad, India. Passionate about building clean, efficient, and innovative digital solutions.  
 
 ---
 
-## 👤 About Me
+## 🎓 Education
 
-- **Full‑Stack Developer | IoT Enthusiast**  
-- Passionate about building clean, efficient, and innovative digital solutions.  
-- Based in **Ahmedabad, India**
+- **Current**: MSc IT at GLS University (2025–present)  
+- **Previous**: Best Male Student in BSc IT at GLS University (2021–2024)  
 
 ---
 
