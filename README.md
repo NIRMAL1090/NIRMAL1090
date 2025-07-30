@@ -1,8 +1,3 @@
-[![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirmal1090)](https://github.com/nirmal1090)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=nirmal1090)
-
-
 Hello i am, **Nirmal Patel**, a Full‑Stack Developer from Ahmedabad, India.
 
 ---
@@ -48,5 +43,12 @@ Feel free to reach out via LinkedIn, GitHub, or email. I’m open to:
 - Freelance or contract work
 
 ---
+
+## My Github Stats
+
+[![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirmal1090)](https://github.com/nirmal1090)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=nirmal1090)
+
 
 ©2025 **Nirmal Patel**
