@@ -12,12 +12,12 @@
 
 ## 💻 Skills & Technologies
 
-- Languages: C, C++, Java, Python, PHP, JavaScript 
-- Frameworks & Libraries: Django, Node.js, Flutter. 
-- Databases: MySQL, PL/SQL, SQLite.
-- Dev Tools & Platforms: Azure VM, DigitalOcean, Maven, RStudio, Joomla.
-- UI/UX: Bootstrap, Joomla.
-- Others: IoT, Jupyter (ML), Git
+- **Languages:** C, C++, Java, Python, PHP, JavaScript 
+- **Frameworks** & Libraries: Django, Node.js, Flutter. 
+- **Databases:** MySQL, PL/SQL, SQLite.
+- **Dev Tools & Platforms:** Azure VM, DigitalOcean, Maven, RStudio, Joomla.
+- **UI/UX:** Bootstrap, Joomla.
+- **Others:** IoT, Jupyter (ML), Git
 
 - Focus on scalability, performance, and cross‑platform compatibility
 
