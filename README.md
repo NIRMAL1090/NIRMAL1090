@@ -12,16 +12,20 @@
 
 ## 💻 Skills & Technologies
 
-- Frontend: React, JavaScript, HTML, CSS  
-- Backend: Node.js, Express  
-- Databases, APIs & Web services  
-- IoT system design and development  
+- Languages: C, C++, Java, Python, PHP, JavaScript 
+- Frameworks & Libraries: Django, Node.js, Flutter. 
+- Databases: MySQL, PL/SQL, SQLite.
+- Dev Tools & Platforms: Azure VM, DigitalOcean, Maven, RStudio, Joomla.
+- UI/UX: Bootstrap, Joomla.
+- Others: IoT, Jupyter (ML), Git
+
 - Focus on scalability, performance, and cross‑platform compatibility
 
 ---
 
 ## 📌 Features & Highlights
 
+- Awareness of Emerging Technologies
 - Clean, modular, self-explanatory code  
 - Real-world integrations and use cases  
 - Designed with performance, user experience, and maintainability in mind
