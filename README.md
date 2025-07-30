@@ -51,4 +51,4 @@ Feel free to reach out via LinkedIn, GitHub, or email. I’m open to:
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nirmal1090)
 
 
-©2025 **Nirmal Patel**
+<3
