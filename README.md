@@ -1,4 +1,4 @@
- # 👋 Hi, I’m Nirmal Patel, 
+ # 👋 Hi, I’m **[Nirmal Patel,](https://nirmalpatel.tech/)** 
  I'm a 22‑year‑old MSc IT student & Full‑Stack Developer from Ahmedabad, India. Passionate about building clean, efficient, and innovative digital solutions.  
 
 ---
@@ -12,12 +12,12 @@
 
 ## 💻 Skills & Technologies
 
-- **Languages:** C, C++, Java, Python, PHP, JavaScript 
-- **Frameworks** & Libraries: Django, Node.js, Flutter. 
+- **Languages:** JavaScript, C, C++, Java, Python, PHP 
+- **Frameworks** & Libraries: Next.js, Django, Node.js, Flutter. 
 - **Databases:** MySQL, PL/SQL, SQLite.
-- **Dev Tools & Platforms:** Azure VM, DigitalOcean, Maven, RStudio, Joomla.
-- **UI/UX:** Bootstrap, Joomla.
-- **Others:** IoT, Jupyter (ML), Git
+- **Dev Tools & Platforms:** Azure VM, DigitalOcean, Terminus.
+- **UI/UX:** TailwindCSS, shadcn, Material UI, Bootstrap.
+- **Others:** IoT, Jupyter (ML), Git, Github, (Prompt Engineering) AI Tools: [VsCode, Cursor, Antigravity, Copilot, Claude]
 
 - Focus on scalability, performance, and cross‑platform compatibility
 
@@ -34,7 +34,7 @@
 
 ## 🌐 Portfolio
 
-For a complete look at my work, visit my personal site: **[nirmal.social](https://nirmal.social/)** 
+For a complete look at my work, visit my personal site: **[nirmalpatel.tech](https://nirmalpatel.tech/)** 
 
 ---
 
