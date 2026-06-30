@@ -50,8 +50,6 @@ Feel free to reach out via LinkedIn, GitHub, or email. I’m open to:
 
 ## My Github Stats
 
-[![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirmal1090)](https://github.com/nirmal1090)
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nirmal1090)
 
 
