@@ -5,36 +5,25 @@
 
 ## 🎓 Education
 
-- **Current**: MSc IT at GLS University (2025–present)  
-- **Previous**: Best Male Student in BSc IT at GLS University (2021–2024)  
+- **Master**: MSc IT at GLS University (2025–2026)  
+- **Bachelor**: Best Male Student in BSc IT at GLS University (2021–2024)  
 
 ---
 
 ## 💻 Skills & Technologies
 
-- **Languages:** JavaScript, C, C++, Java, Python, PHP 
-- **Frameworks** & Libraries: Next.js, Django, Node.js, Flutter. 
+- **Languages:** JavaScript, C, C++, Java, Python. 
+- **Frameworks** & Libraries: React, Next.js, Django, Node.js, Flutter.
 - **Databases:** MySQL, PL/SQL, SQLite.
-- **Dev Tools & Platforms:** Azure VM, DigitalOcean, Terminus.
-- **UI/UX:** TailwindCSS, shadcn, Material UI, Bootstrap.
-- **Others:** IoT, Jupyter (ML), Git, Github, (Prompt Engineering) AI Tools: [VsCode, Cursor, Antigravity, Copilot, Claude]
-
-- Focus on scalability, performance, and cross‑platform compatibility
-
----
-
-## 📌 Features & Highlights
-
-- Awareness of Emerging Technologies
-- Clean, modular, self-explanatory code  
-- Real-world integrations and use cases  
-- Designed with performance, user experience, and maintainability in mind
+- **Cloud/Deployment:** Azure VM, DigitalOcean, Vercel, Terminus.
+- **Tools:** Git, Github, Postman, AI Tools: [VsCode, Cursor, Antigravity, Copilot, Claude]
+- **UI/UX:** Tailwind, Bootstrap, Shadcn, Material UI.
 
 ---
 
 ## 🌐 Portfolio
 
-For a complete look at my work, visit my personal site: **[nirmalpatel.tech](https://nirmalpatel.tech/)** 
+For a complete look at my work & Resume, visit my personal site: **[nirmalpatel.tech](https://nirmalpatel.tech/)** 
 
 ---
 
