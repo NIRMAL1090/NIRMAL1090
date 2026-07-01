@@ -21,7 +21,7 @@
 
 ---
 
-## 🌐 Portfolio
+## 🌐 [Portfolio](https://nirmalpatel.tech/)
 
 For a complete look at my work & Resume, visit my personal site: **[nirmalpatel.tech](https://nirmalpatel.tech/)** 
 
